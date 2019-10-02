@@ -1,1 +1,1 @@
-# homeLight_loading-spinner
+# homeLight-loading-spinner
